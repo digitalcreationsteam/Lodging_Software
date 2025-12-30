@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 	<a href="https://www.qloapps.com"><img src="https://forums.qloapps.com/assets/uploads/system/site-logo.png?v=hkl8e1230fo" alt="QloApps"></a>
 	<br>
@@ -101,3 +102,6 @@ For more information about the contribution process please check **[Contribute t
 
 ### Credits
 Crafted with :heart: at [Webkul](https://webkul.com)
+=======
+# Lodging_Software
+>>>>>>> c1992cd9cef7fe42d5533d098cc39d6f930a0f50
